@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8f951d70-974b-454f-aed9-988b5ef5a09c" name="IKO@NB-IKO 2012-02-16 18:27:44" runUser="SCANJOUR\IKO" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4cb57525-73f3-4efe-985a-24acc2ab0cbd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="IKO_NB-IKO 2012-02-16 18_27_44">
+      <DeploymentItem filename="C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWork\bin\Debug\CourcePaperWork.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-16T18:27:44.1250187+02:00" queuing="2012-02-16T18:27:44.5160578+02:00" start="2012-02-16T18:27:44.5590621+02:00" finish="2012-02-16T18:27:44.7840846+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateAndFillMatrixByFuncTest" storage="c:\projects\kostenko_cpw\courcepaperwork\courcepaperworktest\bin\debug\courcepaperworktest.dll" id="b2b99863-b78b-b2aa-04d4-24f4e3505600">
+      <Execution id="77d46ba2-01a2-46a3-baf2-02b3379de301" />
+      <TestMethod codeBase="C:/projects/kostenko_cpw/CourcePaperWork/CourcePaperWorkTest/bin/Debug/CourcePaperWorkTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CourcePaperWorkTest.ProgramTest, CourcePaperWorkTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateAndFillMatrixByFuncTest" />
+    </UnitTest>
+    <UnitTest name="ValidateMatrixDimensionTest" storage="c:\projects\kostenko_cpw\courcepaperwork\courcepaperworktest\bin\debug\courcepaperworktest.dll" id="fa81576b-ef80-7651-02c4-12e52504a9c3">
+      <DeploymentItems>
+        <DeploymentItem filename="CourcePaperWork.exe" />
+      </DeploymentItems>
+      <Execution id="5e1bdea1-4a58-4fba-bc88-40d611e6cbe7" />
+      <TestMethod codeBase="C:/projects/kostenko_cpw/CourcePaperWork/CourcePaperWorkTest/bin/Debug/CourcePaperWorkTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CourcePaperWorkTest.ProgramTest, CourcePaperWorkTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateMatrixDimensionTest" />
+    </UnitTest>
+    <UnitTest name="FillFunctionTest" storage="c:\projects\kostenko_cpw\courcepaperwork\courcepaperworktest\bin\debug\courcepaperworktest.dll" id="f3456c45-53ec-61fd-d24f-c897b01f0321">
+      <DeploymentItems>
+        <DeploymentItem filename="CourcePaperWork.exe" />
+      </DeploymentItems>
+      <Execution id="c400ef20-170b-41c2-96d0-adf03faa482f" />
+      <TestMethod codeBase="C:/projects/kostenko_cpw/CourcePaperWork/CourcePaperWorkTest/bin/Debug/CourcePaperWorkTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CourcePaperWorkTest.ProgramTest, CourcePaperWorkTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FillFunctionTest" />
+    </UnitTest>
+    <UnitTest name="MatrixToStringTest" storage="c:\projects\kostenko_cpw\courcepaperwork\courcepaperworktest\bin\debug\courcepaperworktest.dll" id="3fcfa9da-dded-e574-441a-ddb5bd451587">
+      <Execution id="05edb95a-ca4d-4bc8-8219-d87ef5531299" />
+      <TestMethod codeBase="C:/projects/kostenko_cpw/CourcePaperWork/CourcePaperWorkTest/bin/Debug/CourcePaperWorkTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CourcePaperWorkTest.ProgramTest, CourcePaperWorkTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixToStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3fcfa9da-dded-e574-441a-ddb5bd451587" executionId="05edb95a-ca4d-4bc8-8219-d87ef5531299" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2b99863-b78b-b2aa-04d4-24f4e3505600" executionId="77d46ba2-01a2-46a3-baf2-02b3379de301" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3456c45-53ec-61fd-d24f-c897b01f0321" executionId="c400ef20-170b-41c2-96d0-adf03faa482f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa81576b-ef80-7651-02c4-12e52504a9c3" executionId="5e1bdea1-4a58-4fba-bc88-40d611e6cbe7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="05edb95a-ca4d-4bc8-8219-d87ef5531299" testId="3fcfa9da-dded-e574-441a-ddb5bd451587" testName="MatrixToStringTest" computerName="NB-IKO" duration="00:00:00.0130271" startTime="2012-02-16T18:27:44.5660628+02:00" endTime="2012-02-16T18:27:44.7530815+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05edb95a-ca4d-4bc8-8219-d87ef5531299">
+    </UnitTestResult>
+    <UnitTestResult executionId="77d46ba2-01a2-46a3-baf2-02b3379de301" testId="b2b99863-b78b-b2aa-04d4-24f4e3505600" testName="CreateAndFillMatrixByFuncTest" computerName="NB-IKO" duration="00:00:00.0011547" startTime="2012-02-16T18:27:44.7550817+02:00" endTime="2012-02-16T18:27:44.7590821+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="77d46ba2-01a2-46a3-baf2-02b3379de301">
+    </UnitTestResult>
+    <UnitTestResult executionId="c400ef20-170b-41c2-96d0-adf03faa482f" testId="f3456c45-53ec-61fd-d24f-c897b01f0321" testName="FillFunctionTest" computerName="NB-IKO" duration="00:00:00.0007602" startTime="2012-02-16T18:27:44.7600822+02:00" endTime="2012-02-16T18:27:44.7630825+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c400ef20-170b-41c2-96d0-adf03faa482f">
+    </UnitTestResult>
+    <UnitTestResult executionId="5e1bdea1-4a58-4fba-bc88-40d611e6cbe7" testId="fa81576b-ef80-7651-02c4-12e52504a9c3" testName="ValidateMatrixDimensionTest" computerName="NB-IKO" duration="00:00:00.0011977" startTime="2012-02-16T18:27:44.7650827+02:00" endTime="2012-02-16T18:27:44.7680830+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5e1bdea1-4a58-4fba-bc88-40d611e6cbe7">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,7 @@
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\bin\Debug\CourcePaperWorkTest.dll
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\bin\Debug\CourcePaperWorkTest.pdb
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\bin\Debug\CourcePaperWork.exe
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\bin\Debug\CourcePaperWork.pdb
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\obj\Debug\CourcePaperWorkTest.csprojResolveAssemblyReference.cache
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\obj\Debug\CourcePaperWorkTest.dll
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWorkTest\obj\Debug\CourcePaperWorkTest.pdb

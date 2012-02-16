@@ -1,0 +1,5 @@
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWork\bin\Debug\CourcePaperWork.exe
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWork\bin\Debug\CourcePaperWork.pdb
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWork\obj\x86\Debug\CourcePaperWork.csprojResolveAssemblyReference.cache
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWork\obj\x86\Debug\CourcePaperWork.exe
+C:\projects\kostenko_cpw\CourcePaperWork\CourcePaperWork\obj\x86\Debug\CourcePaperWork.pdb
